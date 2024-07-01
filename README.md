@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaulgoni&label=Profile%20views&color=0e75b6&style=flat" alt="rafaulgoni" /> </p>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+
 - 🔭 I’m currently working on [Fast Delivery](https://go-parcel-book-store.web.app)
 
 - 🌱 I’m currently learning **Python**

@@ -1,10 +1,10 @@
 ![logo](https://github.com/rafaulgoni/rafaulgoni/blob/main/github-banner-image.JPEG)
 
-<h1 align="center">Hi, I'm Rafaul Goni Ansari</h1>
+<h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Rafaul Goni Ansari</h1>
 <h3 align="center">"As a Junior Developer, I am passionate about web development and eager to contribute my skills in various programming languages. I am committed to learning and growing, and I aim to deliver high-quality code and innovative solutions."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaulgoni&label=Profile%20views&color=0e75b6&style=flat" alt="rafaulgoni" /> </p>
-
+ ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+ 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
 - 🔭 I’m currently working on [Fast Delivery](https://go-parcel-book-store.web.app)

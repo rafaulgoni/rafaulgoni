@@ -31,6 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaulgoni&show_icons=true&locale=en&layout=compact" alt="rafaulgoni" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaulgoni&show_icons=true&locale=en" alt="rafaulgoni" /></p>
 
-
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

@@ -1,4 +1,4 @@
-![logo](https://github.com/rafaulgoni/rafaulgoni/blob/main/github-banner-image.JPEG)
+![logo](https://github.com/rafaulgoni/rafaulgoni/blob/main/github-banner-image-one.JPEG.jpg)
 
 <br />
 

@@ -1,5 +1,4 @@
-![logo](https://github.com/rafaulgoni/rafaulgoni/blob/main/github-banner-image-one.JPEG.jpg)
-
+![logo](https://github.com/rafaulgoni/rafaulgoni/blob/main/github%20banner%20images.png) 
 <br />
 
 <h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Rafaul Goni Ansari</h1>
@@ -27,7 +26,7 @@
 <br />
 <br />
 
-## :muscle: Languages and Tools_
+## :muscle: Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -43,10 +42,9 @@
 <br/>
 <br />
 
-## :mailbox: Connect with me_
+## :mailbox: Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/rafaul-goni-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaul-goni-ansari" height="30" width="40" /></a>
-<a href="https://fb.com/rafaulgoniansari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafaulgoniansari1" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -60,8 +58,3 @@
   <br>
   <a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="rafaul-goni" /></a>
 </p>
-
-<br />
-<br />
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Rafaul%20Activity%20Graph&hide_)](https://github.com/ashutosh00710/github-readme-activity-graph)

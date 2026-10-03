@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Rafaul-Goni-Ansari-portfolio](https://rafaul-goni-ansari.web.app)
+- 👨‍💻 All of my projects are available at [Rafaul-Goni-Ansari-portfolio](https://rafaul-goni-ansari.vercel.app)
 
 - 💬 Ask me about **JavaScript, react.js, Next.js, Node.js, express.js, MongoDB**
 
 - 📫 How to reach me **rafaulgoniansari1@gmail.com**
 
-- 📄 Know about my experiences [Rafaul-Goni-Ansari-resume](https://docs.google.com/document/d/1njO4qlDmnD_IUckrPcPRLkIzp3liVpqKKxoJFTDEN2g/edit?usp=sharing)
+- 📄 Know about my experiences [Rafaul-Goni-Ansari-resume](https://drive.google.com/file/d/15nUpW34eZW_WCXKkkB0NU1x8VdjY_99p/view?usp=drive_link)
 
 - ⚡ Fun fact **I think, I am funny...**
 <br />
